@@ -1,0 +1,31 @@
+.component-2 {
+  background-color: #e1decd;
+  justify-content: space-between;
+}
+.text {
+  margin-left: 322px;
+}
+
+h1 {
+  font-family: "glacialindifference", sans-serif;
+  font-size: 70px;
+}
+
+p {
+  font-family: "muli", sans-serif;
+  font-size: 24px;
+}
+
+button {
+  background-color: #ee3364;
+  border: #ee3364;
+  color: white;
+  width: 180px;
+  height: 58px;
+  font-family: "montserrat", sans-serif;
+}
+
+.man {
+  width: 826px;
+
+}
