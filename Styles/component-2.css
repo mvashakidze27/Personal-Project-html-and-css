@@ -1,31 +1,35 @@
 .component-2 {
   background-color: #e1decd;
-  justify-content: space-between;
 }
 .text {
-  margin-left: 322px;
+  margin-left: 313px;
 }
 
 h1 {
-  font-family: "glacialindifference", sans-serif;
-  font-size: 70px;
+  font-family: "GlacialIndifferenceBold";
+  font-size: 76px;
+  padding-top: 128px;
 }
 
 p {
-  font-family: "muli", sans-serif;
+  font-family: "MuliRegular";
   font-size: 24px;
+  margin-top: -57px;
 }
 
 button {
   background-color: #ee3364;
   border: #ee3364;
   color: white;
-  width: 180px;
+  width: 178px;
   height: 58px;
-  font-family: "montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  margin-top: 32px;
 }
 
 .man {
   width: 826px;
-
+  margin-top: -110px;
+  z-index: -1;
 }
