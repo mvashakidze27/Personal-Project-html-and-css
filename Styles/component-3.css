@@ -1,0 +1,26 @@
+.component-3 {
+  height: 702px;
+  justify-content: space-around;
+}
+
+.box-1 {
+  width: 370px;
+  height: 401px;
+  color: #6f7071;
+  box-sizing: border-box;
+  z-index: 2;
+  margin-left: 380px;
+}
+
+.box-2{
+    width: 470px;
+    height: 599px;
+    color: #F2F4F5;
+    box-sizing: border-box;
+    z-index: 1;
+    margin-left: 589px;
+}
+
+button {
+    margin-top: 32px;
+  }
