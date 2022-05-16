@@ -7,12 +7,11 @@
   height: 951px;
 }
 
-h1 {
+.glacial {
   font-family: "GlacialIndifferenceBold";
-  font-size: 76px;
 }
 
-p {
+.muli {
   font-family: "MuliRegular";
   font-size: 24px;
 }

@@ -5,16 +5,17 @@
   margin-left: 313px;
 }
 
-h1 {
+.future-2 {
   padding-top: 128px;
+  font-size: 76px;
 }
 
-p {
-  margin-top: -57px;
+.commissions-2 {
+  margin-top: -54px;
 }
 
-.send-1 {
-  margin-top: 32px;
+.send-2 {
+  margin-top: 25px;
   width: 178px;
   height: 58px;
 }
