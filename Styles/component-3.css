@@ -1,26 +1,47 @@
 .component-3 {
-  height: 702px;
-  justify-content: space-around;
+  width: 100%;
+  height: 870px;
+  position: relative;
+  justify-content: center;
+  margin-top: 140px;
+}
+
+.people {
+  position: absolute;
+  width: 100%;
+}
+
+.container-3 {
+  width: 1158px;
 }
 
 .box-1 {
-  width: 370px;
-  height: 401px;
-  color: #6f7071;
+  width: 363px;
+  height: 392px;
+  background-color: #6f7071;
   box-sizing: border-box;
   z-index: 2;
-  margin-left: 380px;
+  margin-top: 232px;
 }
 
-.box-2{
-    width: 470px;
-    height: 599px;
-    color: #F2F4F5;
-    box-sizing: border-box;
-    z-index: 1;
-    margin-left: 589px;
+.box-2 {
+  width: 465px;
+  height: 599px;
+  background-color: #f2f4f5;
+  box-sizing: border-box;
+  z-index: 1;
+  margin-left: -174px;
 }
 
-button {
-    margin-top: 32px;
-  }
+.text-3 {
+  z-index: 2;
+  margin-left: 42px;
+  margin-top: -60px;
+}
+
+.send-2 {
+  width: 176px;
+  height: 58px;
+  margin-top: 31px;
+  margin-left: 7px;
+}
