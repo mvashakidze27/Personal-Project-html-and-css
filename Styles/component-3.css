@@ -3,12 +3,12 @@
   height: 870px;
   position: relative;
   justify-content: center;
-  margin-top: 140px;
 }
 
 .people {
   position: absolute;
   width: 100%;
+  bottom: 0;
 }
 
 .container-3 {
@@ -16,41 +16,42 @@
 }
 
 .box-1 {
-  width: 363px;
-  height: 392px;
+  width: 369px;
+  height: 400px;
   background-color: #6f7071;
   box-sizing: border-box;
   z-index: 2;
-  margin-top: 232px;
+  margin-top: 398px;
+  margin-right: -175px;
 }
 
 .box-2 {
-  width: 465px;
-  height: 592px;
+  width: 473px;
+  height: 599px;
   background-color: #f2f4f5;
   box-sizing: border-box;
   z-index: 1;
-  margin-left: -174px;
+  margin-right: 47px;
+  margin-top: 166px;
 }
 
 .text-3 {
   z-index: 2;
-  margin-left: 42px;
-  margin-top: -60px;
 }
 
 .future-3{
     font-size: 76px;
-    margin-top: 177px;
+    margin-bottom: 20px;
+    padding-top: 294px;
 }
 
 .commissions-3{
-    margin-top: -57px;
+    margin-bottom: 47px;
+    letter-spacing: -0.5px;
+    line-height: 35px;
 }
 
 .send-3 {
   width: 176px;
   height: 58px;
-  margin-top: 31px;
-  margin-left: 7px;
 }

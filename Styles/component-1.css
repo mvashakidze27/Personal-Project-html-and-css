@@ -7,7 +7,8 @@
   font-family: "Poppins", sans-serif;
   font-size: 40px;
   margin-left: 63px;
-  margin-top: 40px;
+  margin-top: 50px;
+  font-weight: 800;
 }
 
 span {
@@ -16,9 +17,11 @@ span {
 
 .icons {
   justify-content: flex-end;
-  margin-right: 90px;
-  margin-top: 26px;
+  align-items: center;
+  margin-right: 78px;
+  margin-top: 34px;
   z-index: 1;
+  height: 80px;
 }
 
 .icon {

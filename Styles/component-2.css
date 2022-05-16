@@ -2,25 +2,29 @@
   background-color: #e1decd;
 }
 .text-2 {
-  margin-left: 313px;
+  margin-left: 319px;
+  padding-top: 222px;
 }
 
 .future-2 {
-  padding-top: 128px;
   font-size: 76px;
+  margin-bottom: 22px;
+  margin-right: 76px;
 }
 
 .commissions-2 {
-  margin-top: -54px;
+  margin-bottom: 44px;
+  font-size: 24px;
+  letter-spacing: -0.5px;
+  line-height: 35px;
 }
 
 .send-2 {
-  margin-top: 25px;
-  width: 178px;
-  height: 58px;
+  width: 183px;
+  height: 60px;
 }
 
 .man {
   width: 826px;
-  margin-top: -135px;
+  margin-top: -114px;
 }
