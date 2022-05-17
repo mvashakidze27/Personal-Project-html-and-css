@@ -62,7 +62,7 @@
 .table-6 {
   width: 1170px;
   margin: 0 auto;
-  margin-bottom: 38px;
+  margin-bottom: 32px;
 }
 
 .left {
@@ -121,4 +121,5 @@
 .view{
     width: 183px;
     height: 60px;
+    margin: 0 auto;
 }
