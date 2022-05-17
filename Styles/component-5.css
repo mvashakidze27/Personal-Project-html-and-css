@@ -11,25 +11,30 @@
 }
 
 .box-6{
-    width: 384px;
+    width: 438px;
     height: 100%;
     background-color: #D0D0D0;
 }
 
 .Lora{
-    width: 384px;
+    width: 426px;
     height: 100%;
+    position: relative;
 }
 
 .text-lora{
     flex-direction: column;
     z-index: 2;
+    justify-content: center;
 }
 
 .lora-picture{
-    bottom: 0;
     position:absolute;
     z-index: -1;
+    width: 438px;
+    height: 794px;
+    top: -82px;
+    left: -36px;
 }
 
 .name-lora{
@@ -41,6 +46,7 @@
 .designer{
     font-size: 18px;
     letter-spacing: 5px;
+    color: white;
 }
 
 .lora-icons{
