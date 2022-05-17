@@ -4,3 +4,25 @@
     background-color: #1B1B1B;
     justify-content: center;
 }
+
+.row-7{
+    flex-direction: row;
+    width: 1110px;
+    justify-content: space-between;
+}
+
+.row-7 h1{
+    font-size: 57px;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+}
+
+.row-7 p{
+    font-size: 24px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.row-7 img{
+    float: left;
+}
