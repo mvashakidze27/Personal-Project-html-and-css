@@ -1,4 +1,124 @@
-.component-6{
-    width: 100%;
-    height: 2325px;
+.component-6 {
+  width: 100%;
+  height: 2325px;
+  margin: auto;
+  flex-direction: column;
+  background-color: #fdf4b4;
+}
+
+.container-6 {
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 134px;
+  padding-left: 8px;
+}
+
+.news-6 {
+  font-size: 15px;
+  color: #2ed279;
+  margin-bottom: 9px;
+}
+
+.things-6 {
+  font-size: 70px;
+  margin-bottom: 35px;
+}
+
+.spans6 {
+  margin-left: 90px;
+  margin-bottom: 65px;
+}
+
+.span-6 {
+  font-size: 15px;
+  margin-right: 54px;
+}
+
+.pink {
+  background-color: #fae0cd;
+}
+
+.white {
+  background-color: #ffffff;
+}
+
+.magenta {
+  background-color: #fb888f;
+}
+
+.aqua {
+  background-color: #9de1e4;
+}
+
+.blue {
+  background-color: #81b5ff;
+}
+
+.orange {
+  background-color: #ffaf96;
+}
+
+.table-6 {
+  width: 1170px;
+  margin: 0 auto;
+  margin-bottom: 38px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.cell-1 {
+  width: 752px;
+  height: 538px;
+  margin-bottom: 45px;
+  position: relative;
+}
+
+.cell-2 {
+  width: 372px;
+  height: 538px;
+  margin-bottom: 45px;
+  position: relative;
+}
+
+.big {
+  font-size: 41px;
+
+  position: absolute;
+}
+
+.little {
+  font-size: 18px;
+  position: absolute;
+}
+
+.cell-1 .big {
+  top: 75.5%;
+  left: 8.5%;
+}
+
+.cell-1 .little {
+  top: 87.5%;
+  left: 8.5%;
+}
+
+.cell-2 .big {
+  top: 67.5%;
+  left: 15.5%;
+}
+
+.cell-2 .little {
+  top: 87%;
+  left: 16.5%;
+}
+
+.view{
+    width: 183px;
+    height: 60px;
 }
