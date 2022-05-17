@@ -9,6 +9,7 @@
     flex-direction: row;
     width: 1110px;
     justify-content: space-between;
+    margin-top: 97px;
 }
 
 .row-7 h1{
@@ -19,10 +20,11 @@
 
 .row-7 p{
     font-size: 24px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: #FFFFFF;
 }
 
 .row-7 img{
     float: left;
+    height: 60px;
 }
